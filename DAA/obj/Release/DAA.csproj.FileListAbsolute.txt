@@ -1,0 +1,8 @@
+F:\Program\Visual Studio C#\DAA\DAA\bin\Release\DAA.exe.config
+F:\Program\Visual Studio C#\DAA\DAA\bin\Release\DAA.exe
+F:\Program\Visual Studio C#\DAA\DAA\bin\Release\DAA.pdb
+F:\Program\Visual Studio C#\DAA\DAA\obj\Release\DAA.PapanPermainan.resources
+F:\Program\Visual Studio C#\DAA\DAA\obj\Release\DAA.Properties.Resources.resources
+F:\Program\Visual Studio C#\DAA\DAA\obj\Release\DAA.csproj.GenerateResource.Cache
+F:\Program\Visual Studio C#\DAA\DAA\obj\Release\DAA.exe
+F:\Program\Visual Studio C#\DAA\DAA\obj\Release\DAA.pdb

@@ -1,0 +1,27 @@
+F:\Program\Visual Studio C#\DAA\DAA\bin\Debug\DAA.exe.config
+F:\Program\Visual Studio C#\DAA\DAA\bin\Debug\DAA.exe
+F:\Program\Visual Studio C#\DAA\DAA\bin\Debug\DAA.pdb
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.csprojResolveAssemblyReference.cache
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.Properties.Resources.resources
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.csproj.GenerateResource.Cache
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.exe
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.pdb
+F:\Program\Visual Studio C#\DAA\DAA\obj\Debug\DAA.PapanPermainan.resources
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\bin\Debug\DAA.exe.config
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.exe
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.pdb
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.csprojResolveAssemblyReference.cache
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.PapanPermainan.resources
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.Properties.Resources.resources
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\obj\Debug\DAA.csproj.GenerateResource.Cache
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\bin\Debug\DAA.exe
+F:\Program\Visual Studio C#\DAA - Greedy\DAA\bin\Debug\DAA.pdb
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\bin\Debug\DAA.exe.config
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.exe
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.pdb
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\bin\Debug\DAA.exe
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\bin\Debug\DAA.pdb
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.csprojResolveAssemblyReference.cache
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.PapanPermainan.resources
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.Properties.Resources.resources
+F:\College\Semester 5\DAA\TUBES DAA\DAA - Greedy\DAA\obj\Debug\DAA.csproj.GenerateResource.Cache
